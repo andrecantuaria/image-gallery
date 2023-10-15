@@ -2,7 +2,7 @@
 
 In this tutorial, I will guide you through creating a responsive image gallery using HTML and CSS. This gallery will feature sixteen image placeholders, each with a transparent overlay and an effect when you hover over them. By the end of this tutorial, you will have a beautiful and responsive image gallery that you can customize for your project. This gallery is part of my final project for the Web Development Introduction course, where I've learned HTML and CSS. My next goal is to enhance this gallery's functionality by incorporating JavaScript and a database to further expand its capabilities.
 
-
+![Responsive Image Gallery](https://raw.githubusercontent.com/andrecantuaria/responsive-image-gallery/img/print-img-gallery.jpg)
 
  1. ### Set Up Your Project
      1.  Create a root folder for your project called "**my-image-gallery**".
@@ -257,4 +257,11 @@ Now you have a beautiful and responsive image gallery that can serve various pur
 Feel free to add more features to make it unique. This tutorial serves as a foundation for you to further develop your skills and expand your knowledge.
 
 **Happy coding!**
+
+![Project Page](https://raw.githubusercontent.com/andrecantuaria/responsive-image-gallery/img/print-img-responsiveness1.jpg)
+
+![Image gallery - tablet](https://raw.githubusercontent.com/andrecantuaria/responsive-image-gallery/img/print-img-responsiveness2.jpg)
+
+![Image gallery - Smartphone](https://raw.githubusercontent.com/andrecantuaria/responsive-image-gallery/img/print-img-responsiveness3.jpg)
+
 
